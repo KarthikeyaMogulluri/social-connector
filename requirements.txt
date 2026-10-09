@@ -1,0 +1,5 @@
+mcp<2
+httpx
+python-dotenv
+pytest
+hypothesis
